@@ -1,8 +1,8 @@
 ### Hi recruiter, I'm a level one software engineer, feel free to see my projects 🙂
 <div align="center">
   <a href="https://github.com/ErickDev00">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ErickDev00&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickDev00&layout=compact&langs_count=7&theme=graywhite"/>
+  <img height="175em" width="48%" src="https://github-readme-stats.vercel.app/api?username=ErickDev00&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+  <img height="175em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickDev00&layout=compact&langs_count=7&theme=graywhite"/>
 </div>
   
   <div style="display: inline_block"><br>
